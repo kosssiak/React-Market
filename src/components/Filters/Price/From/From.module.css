@@ -1,0 +1,7 @@
+.from{
+    grid-area: from;
+}
+.from textarea{
+    width: 80px;
+    height: 35px;
+}

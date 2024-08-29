@@ -1,0 +1,7 @@
+.photo{
+    display: grid;
+    grid-area: photo;
+    grid-template-areas:
+    "rev obv";
+    grid-template-columns: 1fr 1fr;
+}

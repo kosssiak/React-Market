@@ -1,0 +1,8 @@
+.grade{
+    width: 100px;
+    height: 100px;
+}
+.grade select{
+    width: 170px;
+    height: 30px;
+}

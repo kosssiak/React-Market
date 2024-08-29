@@ -1,0 +1,20 @@
+.menu{
+    white-space: pre;
+    margin: 0 auto;
+    background-color: gold;
+    width: 700px;
+    height: 50px;
+    font-size: 15px;
+}
+
+.menu a{
+    text-decoration: none;
+}
+
+.menu_gr{
+    grid-area: menu;
+}
+
+.menu a.active{
+    color: mediumturquoise;
+}

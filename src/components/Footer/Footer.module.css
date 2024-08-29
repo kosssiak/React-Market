@@ -1,0 +1,13 @@
+.foot{
+    background-color: lime;
+    width: 1600px;
+    height: 150px;
+    display: grid;
+    grid-template-areas:
+    "about buyers dealers";
+    grid-template-columns: 2fr 2fr 2fr;
+}
+
+.foot_gr{
+    grid-area: footer;
+}

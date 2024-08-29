@@ -1,0 +1,7 @@
+.to{
+    grid-area: to;
+}
+.to textarea{
+    width: 80px;
+    height: 35px;
+}

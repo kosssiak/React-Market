@@ -1,0 +1,9 @@
+.offers{
+    background-color: aqua;
+    width: 1300px;
+    height: 1100px;
+}
+
+.offers_gr{
+    grid-area: offers;
+}

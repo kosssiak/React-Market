@@ -1,0 +1,7 @@
+.obverse{
+    grid-area: obv;
+}
+.obverse img{
+    width: 150px;
+    height: 150px;
+}

@@ -1,0 +1,19 @@
+.head{
+    display: grid;
+    grid-template-columns: 300px 200px 200px 200px;
+    grid-template-rows: 70px;
+    white-space: pre;
+    margin: 0 auto;
+    background-color: burlywood;
+    width: 1000px;
+    height: 100px;
+}
+.head_gr{
+    grid-area: header;
+}
+.head a{
+    text-decoration: none;
+}
+.head a.active{
+    color: mediumspringgreen;
+}

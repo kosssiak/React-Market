@@ -1,0 +1,7 @@
+.reverse{
+    grid-area: rev;
+}
+.reverse img{
+    width: 150px;
+    height: 150px;
+}

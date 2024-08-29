@@ -1,0 +1,6 @@
+.price{
+    grid-area: price;
+    background-color: lightseagreen;
+    width: 150px;
+    height: 150px;
+}

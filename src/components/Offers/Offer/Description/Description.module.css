@@ -1,0 +1,6 @@
+.desc{
+    grid-area: desc;
+    width: 700px;
+    height: 150px;
+    background-color: darkgray;
+}

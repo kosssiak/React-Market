@@ -1,0 +1,11 @@
+.App {
+    margin: 0 auto;
+    display: grid;
+    grid-template-columns: 200px 1fr;
+    grid-template-areas:
+            "header header"
+            "menu menu"
+            "filters offers"
+            "footer footer"
+;
+}

@@ -1,0 +1,13 @@
+.filter{
+    background-color: lightseagreen;
+    width: 200px;
+    height: 730px;
+}
+
+.filt{
+    font-size: 30px;
+}
+
+.filt_gr{
+    grid-area: filters;
+}

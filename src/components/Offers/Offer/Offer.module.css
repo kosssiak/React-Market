@@ -1,0 +1,6 @@
+.offer{
+    display: grid;
+    grid-template-areas:
+    "photo desc price";
+    grid-template-columns: 2fr 2fr 2fr;
+}

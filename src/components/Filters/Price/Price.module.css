@@ -1,0 +1,11 @@
+.price{
+    width: 100px;
+    height: 100px;
+}
+
+.from_to{
+    display: grid;
+    grid-template-areas:
+    "from to" ;
+    grid-template-columns: 1fr 1fr;
+}

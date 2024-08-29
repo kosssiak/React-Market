@@ -1,0 +1,8 @@
+.categories{
+    width: 100px;
+    height: 100px;
+}
+.categories select{
+    width: 170px;
+    height: 30px;
+}
